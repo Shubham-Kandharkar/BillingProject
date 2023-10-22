@@ -1,4 +1,4 @@
-package com.billing.supermarket;
+package com.billing.application;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
